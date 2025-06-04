@@ -1,7 +1,7 @@
 import type React from "react"
 export const metadata = {
-  title: "Hyper Tanks",
-  description: "A Hyper Tanks-inspired game",
+  title: "Tally Tank",
+  description: "A tally Tanks-inspired game",
     generator: 'v0.dev'
 }
 

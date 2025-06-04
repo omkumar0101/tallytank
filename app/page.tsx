@@ -11,7 +11,7 @@ export default function Home() {
             <a href="https://x.com/Tally_Tank" target="_blank" rel="noopener noreferrer">
               <img src="/twitterlogo.png" alt="Twitter" className="w-8 h-8 md:w-10 md:h-10 object-contain rounded-full border-2 border-white" style={{ marginRight: '0.5rem' }} />
             </a>
-            <h1 className="text-2xl md:text-4xl font-bold text-white text-center tracking-wider">TALLY TANKS!</h1>
+            <h1 className="text-2xl md:text-4xl font-bold text-white text-center tracking-wider">TALLY TANK</h1>
             <a href="https://t.me/tallytank" target="_blank" rel="noopener noreferrer">
               <img src="/tglogo.png" alt="Telegram" className="w-8 h-8 md:w-10 md:h-10 object-contain rounded-full border-2 border-white" style={{ marginLeft: '0.5rem' }} />
             </a>
